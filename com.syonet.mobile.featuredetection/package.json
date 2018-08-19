@@ -1,0 +1,61 @@
+{
+  "_from": "cordova-plugin-feature-detection",
+  "_id": "cordova-plugin-feature-detection@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha1-0t0n09uJDU1MYDc+hra/xJDv4E0=",
+  "_location": "/cordova-plugin-feature-detection",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-feature-detection",
+    "name": "cordova-plugin-feature-detection",
+    "escapedName": "cordova-plugin-feature-detection",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-feature-detection/-/cordova-plugin-feature-detection-0.0.5.tgz",
+  "_shasum": "d2dd27d3db890d4d4c60373e86b6bfc490efe04d",
+  "_spec": "cordova-plugin-feature-detection",
+  "_where": "C:\\Users\\Casey\\Switch",
+  "author": {
+    "name": "Syonet"
+  },
+  "bugs": {
+    "url": "https://github.com/Syonet/cordova-feature-detection/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-feature-detection",
+    "platforms": [
+      "android",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for device feature detection.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/Syonet/cordova-feature-detection#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-feature-detection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syonet/cordova-feature-detection.git"
+  },
+  "version": "0.0.5"
+}
